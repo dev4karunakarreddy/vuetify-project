@@ -1,5 +1,5 @@
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
-      ? '/repository-name/'
+      ? '/https://github.com/dev4karunakarreddy/vuetify-project/'
       : '/'
   }
